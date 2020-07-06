@@ -1,0 +1,1 @@
+{('SODA', 3318069): Synset('sodium_carbonate.n.01'), ('Sodas', 5599353): Synset('sodium_carbonate.n.01'), ('Soday', 13752636): Synset('sodium_carbonate.n.01'), ('Soda (disambiguation)', 19677220): Synset('sodium_carbonate.n.01'), ('Soda drink', 47486780): Synset('sodium_carbonate.n.01')}
