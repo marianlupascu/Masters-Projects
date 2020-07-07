@@ -36,8 +36,8 @@ The analysis report and explanations can be found [here](Year%201/Programming%20
 Metabolic-microbial relationships are essential for the study of the microbiome. A new method is introduced that has the power to analyze the metabolite-microbe relationships. This new method is based on a technology not used so far in the study of metabolized microbial interactions, namely machine learning.
 It is proved by 5 experiments: two experiments on cystic pulmonary fibrosis, one on the wetting of the biocrust, in the analysis of the impact of a high fat diet in murine a bacterium responsible for the excess production of a new bile acid is determined and in the analysis of in ammatory bowel disease and the colon identify a bacterium responsible for this disease as it was not initially associated with this disease in the Human Microbiome Project, as this method of analyzing metabolite microbe interactions has higher performance than previous methods (which are purely statistical) to do this thing.
 
-The analysis report and explanations can be found [here](Year%201/Modelarea%Syntactic%20Modeling%20of%20Biological%20Systems/Learning%20representations%20of%20microbe–metabolite/Peper_LM.pdf)
-![doc](Year%201/Modelarea%Syntactic%20Modeling%20of%20Biological%20Systems/Learning%20representations%20of%20microbe–metabolite/2020-07-06%2019_37_08-Greenshot.png)
+The analysis report and explanations can be found [here](Year%201/Syntactic%20Modeling%20of%20Biological%20Systems/Learning%20representations%20of%20microbe–metabolite/Peper_LM.pdf)
+![doc](Year%201/Syntactic%20Modeling%20of%20Biological%20Systems/Learning%20representations%20of%20microbe–metabolite/2020-07-06%2019_37_08-Greenshot.png)
 </details>
 
 <details><summary>Other Classes</summary>
