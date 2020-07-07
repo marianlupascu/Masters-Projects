@@ -1,4 +1,0 @@
-01_scanned_F1.jpg	7.90
-02_scanned_I4.jpg	8.20
-...
-55_scanned_I2.jpg	10
