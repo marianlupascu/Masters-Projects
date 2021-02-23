@@ -3,6 +3,8 @@
 
 > This repository contains AI projects -- screenshots/gif & source.
 
+Thesis - in progress...
+
 ## [Year 2](Year%202)
 <details><summary><i>Information Retrieval and Text Mining</i> - Romanian Language Information Retrieval System</summary>
 
