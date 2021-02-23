@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lucene-core-8.6.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependencies/lucene-core-8.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/lucene-core-8.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

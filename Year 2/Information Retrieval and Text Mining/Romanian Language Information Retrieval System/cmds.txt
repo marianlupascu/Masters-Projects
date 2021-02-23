@@ -1,0 +1,5 @@
+INDEXER:
+java -Dfile.encoding=UTF-8 -classpath ".\out\production\P1;.\dependencies\lucene-core-8.6.3.jar;.\dependencies\tika-app-1.24.1.jar;.\dependencies\pdfbox-app-2.0.21.jar;.\dependencies\lucene-queryparser-8.6.3.jar;.\dependencies\lucene-analyzers-common-8.6.3.jar" com.main.Indexer ".\docs"
+
+SEARCHER:
+java -Dfile.encoding=UTF-8 -classpath ".\out\production\P1;.\dependencies\lucene-core-8.6.3.jar;.\dependencies\tika-app-1.24.1.jar;.\dependencies\pdfbox-app-2.0.21.jar;.\dependencies\lucene-queryparser-8.6.3.jar;.\dependencies\lucene-analyzers-common-8.6.3.jar" com.main.Searcher "mama şi căruţă"

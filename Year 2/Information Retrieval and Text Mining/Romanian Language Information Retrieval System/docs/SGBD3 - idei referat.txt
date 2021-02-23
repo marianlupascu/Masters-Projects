@@ -1,0 +1,13 @@
+1. Comparatie tip Number vs Number(*) vs Number(38) vs Number(n) 
+   a. Care este dimensiunea maxima permisa pentru o variabila de tip Number/Number(*)?
+   b. Ce varianta se recomanda sa se utilizeze? De ce?
+   c. Dati exemple concrete: enunt, rezolvare, captura de ecran cu rezultatul obtinut.
+
+2. Comparati rezolvarile exercitiilor: 3.13, 3.14, 3.15, 3.16 si 3.17
+   a. Care rezolvare considerati ca este optima? De ce?
+   b. Creati propriul exemplu si testati: enunt, rezolvare, timp de executie/cost, captura de ecran cu rezultatul obtinut.
+
+3. Studiu pe orice subiect cuprins in acest curs pe care doriti sa-l aprofundati sau sa-l analizati comparativ cu alte SGBD-uri
+   a. Introducere privind subiectul ales.
+   b. Creati propriul exemplu si testati: enunt, rezolvare, captura de ecran cu rezultatul obtinut.  
+  
