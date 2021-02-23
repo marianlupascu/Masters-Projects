@@ -35,7 +35,7 @@ The analysis report and explanations can be found [here](https://github.com/mari
 ![doc](https://github.com/marianlupascu/Masters-Projects/blob/master/Year%202/Deep%20Learning/2021-02-23%2011_16_58-Window.png?raw=true)
 </details>
 
-<details><summary><i>Natural language processing 2g</i> - Fake News Detection</summary>
+<details><summary><i>Natural language processing 2</i> - Fake News Detection</summary>
 
 `Python` In our society, the spread of fake news is increasing drastically due to which people are believing in unreal incidents. So it is utmost necessary to differentiate the real news from the fake ones and present them to society.
 The analysis report and explanations can be found [here](https://github.com/marianlupascu/Masters-Projects/blob/master/Year%202/Natural%20language%20processing%202/Fake-News-Detection.pdf)
